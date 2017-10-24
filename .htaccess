@@ -1,2 +1,2 @@
-AddType application/x-httpd-php .php .html .jpg
+AddType application/x-httpd-php5 .php .html .jpg
 
